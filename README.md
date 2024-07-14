@@ -7,7 +7,7 @@
 <p align="left"> bbeglerov@icloud.com
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,electron,express,firebase,gcp,git,javascript,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,mongodb,nest,next,nodejs,postgres,react,redis,redux,sass,sqlite)](https://skillicons.dev)
